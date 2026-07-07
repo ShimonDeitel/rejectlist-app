@@ -1,0 +1,42 @@
+{
+  "identifier": "storekit_config",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [
+    {
+      "id": "SUBGROUP1",
+      "localizations": [],
+      "name": "Rejectlist Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "SUB1",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Track an essay-status checklist for every application.",
+              "displayName": "Essay Checklist",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.rejectlist.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Rejectlist Pro Monthly",
+          "subscriptionGroupID": "SUBGROUP1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
